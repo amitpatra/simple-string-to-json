@@ -1,0 +1,10 @@
+{
+  "name": "simple-string-to-json",
+  "version": "0.0.1",
+  "description": "Simple utility to convert string to json",
+  "main": "index.js",
+  "repository": "git@github.com/amitpatra/simple-string-to-json",
+  "author": "Amit Patra <amit.patra@msn.com>",
+  "license": "MIT",
+  "private": false
+}
